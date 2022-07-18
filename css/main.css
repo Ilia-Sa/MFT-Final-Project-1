@@ -1,0 +1,59 @@
+/*setting*/
+@import "setting.css";
+/*end of setting*/
+/* xLarge */
+@import "media/xl/menu.css";
+@import "media/xl/slider.css";
+@import "media/xl/aboutUs.css";
+@import "media/xl/collection.css";
+@import "media/xl/sale.css";
+@import "media/xl/ourProducts.css";
+@import "media/xl/reviews.css";
+@import "media/xl/order.css";
+@import "media/xl/footer.css";
+/* end of xLarge */
+/* Large */
+@import "media/lg/lgMenu.css";
+@import "media/lg/lgSlider.css";
+@import "media/lg/lgAboutUs.css";
+@import "media/lg/lgCollection.css";
+@import "media/lg/lgSale.css";
+@import "media/lg/lgOurProducts.css";
+@import "media/lg/lgReview.css";
+@import "media/lg/lgOrder.css";
+@import "media/lg/lgFooter.css";
+/* end of Large */
+/* medium */
+@import "media/md/mdMenu.css";
+@import "media/md/mdSlider.css";
+@import "media/md/mdAboutUs.css";
+@import "media/md/mdCollection.css";
+@import "media/md/mdSale.css";
+@import "media/md/mdOurProducts.css";
+@import "media/md/mdReviews.css";
+@import "media/md/mdOrder.css";
+@import "media/md/mdFooter.css";
+/* end of medium */
+/* small */
+@import "media/sm/smMenu.css";
+@import "media/sm/smSlider.css";
+@import "media/sm/smAboutUs.css";
+@import "media/sm/smCollection.css";
+@import "media/sm/smSale.css";
+@import "media/sm/smOurprodcuts.css";
+@import "media/sm/smReviews.css";
+@import "media/sm/smOrder.css";
+@import "media/sm/smFooter.css";
+/* end of small */
+/* xSmall */
+@import "media/xs/xsMenu.css";
+@import "media/xs/xsReviews.css";
+@import "media/xs/xsOrder.css";
+@import "media/xs/xsOurProducts.css";
+@import "media/xs/xsCollection.css";
+@import "media/xs/xsAboutUs.css";
+@import "media/xs/xsSale.css";
+@import "media/xs/xsSlider.css";
+@import "media/xs/xsFooter.css";
+/* end of xSmall */
+
